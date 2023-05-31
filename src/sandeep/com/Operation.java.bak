@@ -6,7 +6,6 @@ public class Operation {
         int x=100;
         int y=200;
         int result;
-		result =x-y;
         result=x+y;
         System.out.println(result);
 	}
